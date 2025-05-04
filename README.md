@@ -3,16 +3,16 @@
 1) Структура модели:
 https://colab.research.google.com/drive/14ZjRFyz7JYiSnvB9lAR-2o38YEf0_okD?usp=sharing
 
-2) “Яблочный” алгоритм:
+2) Базовый алгоритм:
 https://colab.research.google.com/drive/17rwucutIULxad4GMpi_hKHwkEOJjJnbM?usp=sharing
 
-3) Дообучение модели:
+4) Дообучение модели:
 https://colab.research.google.com/drive/1s04q1AcRJZOl0AjzORQNHrEmQw3pYYJs?usp=sharing
 
-4) Тестирование дообученной модели:
+5) Тестирование дообученной модели:
 https://colab.research.google.com/drive/1K6ONOPnhxgi0TcPlOtp31wdwCybOIc8A?usp=sharing
 
-5) Поиск нейронов, отвечающих за позитив и негатив:
+6) Поиск нейронов, отвечающих за позитив и негатив:
 https://colab.research.google.com/drive/1XRUji0P--yyhKIbmJd_uLRNGi8XXJ1Rl?usp=sharing
 
 ## Данные:
